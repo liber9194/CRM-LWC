@@ -1,0 +1,46 @@
+.big-account-tile {
+    align-items: center;
+}
+
+.account-tile {
+    display: flex;
+    border: 1px solid black;
+    border-radius: .25rem;
+    align-content: center;
+    width: 200px;
+    height: 160px;
+    text-align: center;
+    box-shadow: none;
+    z-index: 1;
+    position: relative;
+}
+
+.ratingTitle {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ratingName {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.totalAmount {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.totlaAmount-price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.totalCase {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.totalCase-Number {
+    font-weight: bold;
+    font-size: 16px;
+}
